@@ -1,0 +1,25 @@
+.see_all_projects_box {
+	border: 2px solid #FFFFFF;
+	border-radius: 40px;
+}
+.see_all_projects_text {
+	font-size: 14px; 
+	line-height: 17px; 
+	color:#FFFFFF;
+	font-family: ProximaNova-Regular; 
+}
+.bluejeans_intro_text {
+	font-size: 20px; 
+	word-spacing: 2px; 
+	text-align: justify; 
+	line-height: 28px; 
+	color:#FFFFFF;
+	font-family: ProximaNova-Light; 
+	font-weight: 3
+}
+.bluejeans_dot_com_text {
+	font-size: 14px; 
+	line-height: 24px; 
+	color:#FFFFFF;
+	font-family: ProximaNova-Light; 
+}
